@@ -1,0 +1,23 @@
+{
+  "name": "eee",
+  "version": "1.0.0",
+  "description": "eee",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SyedaSaman11/eee.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SyedaSaman11/eee/issues"
+  },
+  "homepage": "https://github.com/SyedaSaman11/eee#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
